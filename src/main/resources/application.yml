@@ -1,0 +1,5 @@
+plex:
+  movie-folders: /Volumes/unknown,
+  movie-suffix: RM,RMVB,AVI,FLV,WMV,MP4,3GP,SVCD,ASF,MOV,QT,MPEG,MKV,DivX,XviD,
+  info-suffix: nfo,jpg,png,jpeg,gif,ass,srt,ssa,
+  ignore-file-prefix: ._,.DS_Store,
